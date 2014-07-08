@@ -1,0 +1,16 @@
+info face="GrilledCheese BTN" size=149 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=190 base=132 scaleW=512 scaleH=256 pages=1 packed=0
+page id=0 file="ScoreBig.png"
+chars count=11
+char id=32     x=444   y=127   width=0     height=0     xoffset=0     yoffset=136   xadvance=52    page=0 chnl=0 letter="space"
+char id=48     x=196   y=2     width=108   height=120   xoffset=-1    yoffset=20    xadvance=103   page=0 chnl=0 letter="0"
+char id=49     x=307   y=127   width=42    height=114   xoffset=1     yoffset=21    xadvance=40    page=0 chnl=0 letter="1"
+char id=50     x=410   y=2     width=95    height=120   xoffset=-1    yoffset=15    xadvance=90    page=0 chnl=0 letter="2"
+char id=51     x=2     y=2     width=95    height=123   xoffset=-5    yoffset=16    xadvance=87    page=0 chnl=0 letter="3"
+char id=52     x=201   y=127   width=104   height=114   xoffset=-8    yoffset=22    xadvance=93    page=0 chnl=0 letter="4"
+char id=53     x=99    y=2     width=95    height=121   xoffset=1     yoffset=20    xadvance=93    page=0 chnl=0 letter="5"
+char id=54     x=306   y=2     width=102   height=120   xoffset=-2    yoffset=18    xadvance=95    page=0 chnl=0 letter="6"
+char id=55     x=351   y=127   width=91    height=111   xoffset=-1    yoffset=24    xadvance=81    page=0 chnl=0 letter="7"
+char id=56     x=2     y=127   width=95    height=120   xoffset=-1    yoffset=19    xadvance=89    page=0 chnl=0 letter="8"
+char id=57     x=99    y=127   width=100   height=116   xoffset=-1    yoffset=18    xadvance=93    page=0 chnl=0 letter="9"
+kernings count=0
